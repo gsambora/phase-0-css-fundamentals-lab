@@ -1,3 +1,32 @@
+header {
+  text-align: center
+}
+
+header nav a {
+  background-color: lavenderblush;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#featured-property p {
+  font-size: 16px;
+  /* color:purple; */
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  padding: 10px;
+}
+
+
+#details div{
+  float: left;
+  text-align: center;
+  background-color: rgb(174, 64, 99);
+  width: 25%;
+}
+
 body {
   width: 100%;
   height: 100%;
